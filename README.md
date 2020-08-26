@@ -1,2 +1,2 @@
 # ParagonLauncher
-Release for the Paragon Launcher modified by the new Paragon team.
+Releases for the Paragon Launcher, made by the new Paragon team.
